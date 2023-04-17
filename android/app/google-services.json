@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370307321529",
+    "project_id": "commediacenter-1d6a1",
+    "storage_bucket": "commediacenter-1d6a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370307321529:android:5d53bacfb75f6fac755568",
+        "android_client_info": {
+          "package_name": "com.media.center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370307321529-ik4vr811jrdif1pirfe3kvq0t0ejbkhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwcwSJincVeFXM-LXmkn6n1zFmsPwStOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370307321529-ik4vr811jrdif1pirfe3kvq0t0ejbkhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
